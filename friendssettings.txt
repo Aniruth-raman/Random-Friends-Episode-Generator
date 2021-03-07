@@ -1,0 +1,7 @@
+{
+    'seriespath': "C:\Users\User\Desktop\Friends", 
+    'playlist_path': "C:\\Users\\User\\Desktop\\friendsplaylist.m3u8", 
+    'vlc_path': "C:/Program Files/VideoLAN/VLC/vlc.exe",
+    'num': 10,
+    'video_format': ".mkv"
+}
